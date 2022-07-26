@@ -1,0 +1,34 @@
+<resources>
+        <string name="app_name">Lippy</string>
+        <string name="my_notes">Lippy</string>
+        <string name="search_notes">Search your notes</string>
+        <string name="note_title">Note Title</string>
+        <string name="note_subtitle">Note Title</string>
+        <string name="type_note_here">Type note here…</string>
+        <string name="powered_by">The Ultimate Note Making App..!</string>
+        <string name="developer_depository">The Notebook you Need!</string>
+        <string name="don_t_bother_remembering">The Notebook you Need!</string>
+        <string name="miscellaneous">Miscellaneous</string>
+        <string name="pick_color">Pick Color</string>
+        <string name="add_image">Add Image</string>
+        <string name="add_url">Add URL</string>
+        <string name="enter_url">Enter Url</string>
+        <string name="add">ADD</string>
+        <string name="cancel">CANCEL</string>
+        <string name="delete_note">Delete Note</string>
+        <string name="whoa_you_don_t_have_any_saved_notes_yet">Create your first Note with us!</string>
+        <string name="take_photo">Take Photo</string>
+        <string name="add_voice_note">Add Voice Note</string>
+        <string name="select_image">Select Image</string>
+        <string name="reading_text">Do you want Point Notes to read the note for you?</string>
+        <string name="stop_reading">Cancel</string>
+        <string name="start_reading">Yes</string>
+        <string name="read_note">Read Note</string>
+        <string name="rate_dialog_title">How would you rate Lippy App</string>
+        <string name="rate_dialog_message">If you like this app &amp; find it useful, would you mind taking a moment to rate it? It won\'t take time. Thanks for your support!</string>
+        <string name="rate_dialog_ok">Rate It Now</string>
+        <string name="rate_dialog_cancel">Remind Me Later</string>
+        <string name="share_note">Share Note</string>
+
+
+</resources>

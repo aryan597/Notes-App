@@ -1,0 +1,80 @@
+<resources >
+    <style name="Theme.Lippy" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <item name="actionModeBackground">@color/colorBackground</item>
+        <item name="actionModeCloseDrawable">@drawable/ic_remove</item>
+        <item name="windowActionBarOverlay">true</item>
+        <item name="windowActionModeOverlay">true</item>
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="android:windowActionModeOverlay">true</item>
+
+        <item name="android:windowBackground">@color/colorBackground</item>
+        <item name="android:windowContentTransitions">true</item>
+        <item name="android:windowDisablePreview">true</item>
+        <item name="android:windowAllowEnterTransitionOverlap">true</item>
+        <item name="android:windowAllowReturnTransitionOverlap">true</item>
+
+        <!-- Status Bar and Navigation Colors -->
+<!--        <item name="android:statusBarColor">@color/colorBackground</item>-->
+<!--        <item name="android:windowLightStatusBar">true</item>-->
+
+
+        <item name="android:navigationBarColor">@color/colorBackground</item>
+
+        //Material Dialog
+        <item name="material_dialog_background">@color/colorBackground</item>
+        <item name="material_dialog_title_text_color">@color/colorText</item>
+        <item name="material_dialog_message_text_color">@color/colorText</item>
+        <item name="material_dialog_positive_button_color">@color/colorPrimary</item>
+        <item name="material_dialog_positive_button_text_color">@android:color/white</item>
+        <item name="material_dialog_negative_button_text_color">@color/colorPrimary</item>
+    </style>
+
+    <style name="EditTextAppearance" parent="Widget.AppCompat.EditText">
+        <item name="colorControlNormal">@color/colorPrimary</item>
+        <item name="colorControlActivated">@color/colorPrimary</item>
+        <item name="colorControlHighlight">@color/colorPrimary</item>
+    </style>
+
+    <style name="ErrorAlert" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:fontFamily">@font/poppins</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="InfoAlert" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:fontFamily">@font/poppins</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="NavigationTheme" parent="Theme.MaterialComponents.Light.NoActionBar.Bridge">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorControlHighlight">@color/colorAccent</item>
+    </style>
+
+    <style name="NavigationMenuTextStyle" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">@font/poppins</item>
+    </style>
+
+    <style name="myTheme">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:text">AD</item>
+        <item name="android:fontFamily">@font/poppins_medium</item>
+        <item name="android:background">@drawable/grnativeadattribute</item>
+        <item name="android:width">22dp</item>
+        <item name="android:height">22dp</item>
+    </style>
+
+
+</resources>
